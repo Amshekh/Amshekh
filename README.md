@@ -1,7 +1,7 @@
 ### Hey there.I'm Amit Shekhar!👋
 
 # 💫 About Me:
-full stack web development with python, django , react.js
+Full Stack Web development with python, django , react.js
 
 
 ## 🌐 Socials:
